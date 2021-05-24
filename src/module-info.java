@@ -1,0 +1,2 @@
+module competative.programming {
+}
